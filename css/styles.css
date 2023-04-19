@@ -11413,6 +11413,24 @@ p.lead {
   background-color: #bd5d38;
 }
 
+.icon-box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-text{
+  margin-top: 10px;
+  align-content: center; 
+}
+
+.social-text:hover{
+  margin-top: 10px;
+  align-content: center; 
+  color: #bd5d38;
+}
+
 .dev-icons {
   font-size: 3rem;
 }
